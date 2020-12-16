@@ -1,0 +1,12 @@
+body{
+	height: 100vh;
+	display: flex;
+	flex-direction: row;
+}
+aside{
+	background-color: gray;
+	width: 240px;
+}
+main{
+	background-color: salmon;
+}
